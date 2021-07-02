@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working HEC in China
+
+🌱 I’m currently learning [vue3] [typescript] and [vite]
+
+📫 How to reach me: 821256519@qq.com
