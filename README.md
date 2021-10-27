@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 📫 How to reach me: 821256519@qq.com
 
 ⚡ MY BLOG: https://blog.csdn.net/weixin_42561312
+
+![lwm98's github stats](https://github-readme-stats.vercel.app/api?username=lwm98&count_private=true&show_icons=true)
